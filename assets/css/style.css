@@ -41,3 +41,11 @@ body {
 section {
   margin: 3rem;
 }
+
+i {
+  margin-right: .5rem;
+}
+
+.linkedin {
+  text-align: right;
+}
