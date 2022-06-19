@@ -42,10 +42,26 @@ section {
   margin: 3rem;
 }
 
-i {
-  margin-right: .5rem;
+footer {
+  margin: 3rem;
 }
 
-.linkedin {
-  text-align: right;
+i {
+  margin-right: .75rem;
+}
+
+a {
+  text-decoration: none;
+  color: #444;
+}
+
+.thumbnail {
+  opacity: 0.5;
+  transition: opacity 0.3s;
+}
+
+.thumbnail:hover {
+  opacity: 1;
+  transition: opacity 0.3s;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
 }
