@@ -37,3 +37,7 @@ body {
 .left-col-height {
   height: 100%;
 }
+
+section {
+  margin: 3rem;
+}
